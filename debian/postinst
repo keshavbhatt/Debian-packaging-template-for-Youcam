@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Link to the binary
+ln -sf /opt/Youcam/youcam /usr/local/bin/youcam
+# Launcher icon
+desktop-file-install /opt/Youcam/Youcam.desktop

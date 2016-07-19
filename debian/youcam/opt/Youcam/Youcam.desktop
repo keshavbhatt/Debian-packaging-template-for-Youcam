@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Youcam
+Icon=Youcam
+Exec=/opt/Youcam/youcam
+Comment=simple webcam viewer
+Categories=Qt;Audio;Utility;
+Terminal=false
+Name[en_IN]=Youcam
